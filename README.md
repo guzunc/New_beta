@@ -1,1 +1,1 @@
-# samle 
+# sample
